@@ -17,8 +17,8 @@
     "fs": "^0.0.1-security",
     "mongodb": "^5.1.0",
     "node-telegram-bot-api": "^0.61.0",
+    "request": "^2.88.2",
     "secrets": "^1.1.5"
   },
-  "devDependencies": {},
   "description": ""
 }
